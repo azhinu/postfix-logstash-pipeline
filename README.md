@@ -1,0 +1,2 @@
+# Postfix logstash pipeline
+
